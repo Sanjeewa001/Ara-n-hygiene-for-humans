@@ -27,3 +27,27 @@ input{
 	background: transparent;
 	color: white;
 }
+button {
+	width: 350px;
+	height: 40px;
+	font-size: 17px;
+	border-radius:50px;
+	border: 1px;
+	background: transparent;
+	color: white;
+	
+}
+button:hover
+{
+	cursor: pointer;
+	background-color: #009688;
+	transition: 0.6s;
+}
+::placeholder{
+	color: white;
+}
+datalist{
+	border-radius: 80px; 
+	transition: 0.6s;
+	background: white;
+}
