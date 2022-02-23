@@ -217,7 +217,6 @@ Want to be part of this project? Click [HERE](CONTRIBUTING.md) and read how to c
 ## 🛠 References & Languages 
 
 - 💻 &nbsp;
-
   ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html)
   ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)
   ![Php](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)
