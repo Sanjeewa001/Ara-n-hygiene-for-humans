@@ -1,11 +1,17 @@
 # <b>Pure Water </b>
+<div align="center">
+  <a href="./img/logo.png">
+    <img src="images/logo.png" alt="Logo" >
+  </a>
+</div>
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="./img/logo.png" alt="logo" style="center">
+<img src="./img/preview.png" alt="preview">
 
 > This is a crowdfunding platform & the website for achive the SDG Goal 6 (Clean water and sanitation).  
 
