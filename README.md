@@ -1,7 +1,7 @@
 # <b>Pure Water </b>
 <div align="center">
   <a href="./img/logo.png">
-    <img src="images/logo.png" alt="Logo" >
+    <img src="img/logo.png" alt="Logo" >
   </a>
 </div>
 
