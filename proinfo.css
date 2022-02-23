@@ -15,3 +15,35 @@ body{
 	background-position: center;
 
 }
+.navbar{float:right;}
+.navbar{
+	margin: auto;
+	padding: 20px 10px;
+	display: flex;
+	justify-content: space-between;
+}
+.navbar ul li{
+	list-style: none;
+	display: inline-block;
+	margin:0 20px;
+	position: relative;
+
+}
+.navbar ul li a{
+	text-decoration: none;
+	color: #fff;
+	text-transform: uppercase;
+}
+.navbar ul li::after{
+	content: '';
+	height: 3px;
+	width: 0;
+	background: #009688;
+	position: absolute;
+	left: 0;
+	bottom: -7;
+	transition: 0.4s;
+}
+.navbar ul li:hover::after{
+	width: 100%;
+}
