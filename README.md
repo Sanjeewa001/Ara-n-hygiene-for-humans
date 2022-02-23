@@ -1,4 +1,4 @@
-# Pure water
+# <b>Pure Water </b>
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
@@ -24,10 +24,12 @@ The project is still under development and the next updates will focus on the fo
 - [ ] User dashboard redesign
 - [ ] Easy donation and detailed donation data
 - [ ] And many more...
-<details>
-<summary>File structure</summary>
-<br>
 
+## 📁 File structure 
+<details>
+<summary><b>File structure</b></summary>
+<br>
+```
    - [README.md](README.md)
    - __backend__
      - [auth\_session.php](backend/auth_session.php)
@@ -119,13 +121,13 @@ The project is still under development and the next updates will focus on the fo
      - [app.js](js/app.js)
    - [list.md](list.md)
    - [proinfo.html](proinfo.html)
-
+```
 </details>
 
 
-## 🚀 Demo <project_name>
+## 🚀 Demo <b>Pure Water </b>
 
-To check <project_name>, follow these steps:
+To check <b>Pure Water </b>, follow these steps:
 
 * Click the link below 
 * use these credentials to login
@@ -137,7 +139,7 @@ password - demo
 ```
 
 
-## ⚙️ Database <project_name>
+## ⚙️ Database <b>Pure Water </b>
 
 Sql data structure:
 
@@ -146,14 +148,14 @@ Sql data structure:
 ```
 
 
-## 📫 Contributing to <project_name>
+## 📫 Contributing to <b>Pure Water </b>
 <!---If your README is long or if you have any specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
-To contribute to <project_name>, follow these steps:
+To contribute to <b>Pure Water </b>, follow these steps:
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <branch_name>`.
 3. Make your changes and commit them: `git commit -m '<message_commit>'`
-4. Push to the original branch: `git push origin <project_name> / <local>`
+4. Push to the original branch: `git push origin <b>Pure Water </b> / <local>`
 5. Create the pull request.
 
 Alternatively, see the GitHub documentation at [how to create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request ).
@@ -212,14 +214,22 @@ We thank the following people who contributed to this project:
 
 Want to be part of this project? Click [HERE](CONTRIBUTING.md) and read how to contribute.
 
-## 🔖 References & Languages 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/W3c-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
-<img src="https://img.shields.io/badge/Icon8-00B14F?style=for-the-badge&logo=grab&logoColor=white">
-<img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white">
-<img src="https://img.shields.io/badge/smtp%20Js-1890FF?style=for-the-badge&logo=antdesign&logoColor=white">
+## 🛠 References & Languages 
+
+- 💻 &nbsp;
+
+  ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  
+- 🌐 &nbsp;
+  ![W3c](https://img.shields.io/badge/W3c-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+  ![Icon8](https://img.shields.io/badge/Icon8-00B14F?style=for-the-badge&logo=grab&logoColor=white)
+  ![MDN](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
+  ![Smtp_js](https://img.shields.io/badge/smtp%20Js-1890FF?style=for-the-badge&logo=antdesign&logoColor=white)
+  ![tutorialspoint](https://img.shields.io/badge/Tutorialpoint-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  
 
 [⬆ Back to top](#project-name)<br>
