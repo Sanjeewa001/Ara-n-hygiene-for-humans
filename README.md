@@ -225,11 +225,11 @@ Want to be part of this project? Click [HERE](CONTRIBUTING.md) and read how to c
   
   
 - 🌐 &nbsp;
-  ![W3c](https://img.shields.io/badge/W3c-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-  ![Icon8](https://img.shields.io/badge/Icon8-00B14F?style=for-the-badge&logo=grab&logoColor=white)
-  ![MDN](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
-  ![Smtp_js](https://img.shields.io/badge/smtp%20Js-1890FF?style=for-the-badge&logo=antdesign&logoColor=white)
-  ![tutorialspoint](https://img.shields.io/badge/Tutorialpoint-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![W3c](https://img.shields.io/badge/W3c-4EAA25?style=flat&logo=w3c)
+  ![Icon8](https://img.shields.io/badge/Icon8-00B14F?style=flat&logo=icon8)
+  ![MDN](https://img.shields.io/badge/MDN_Web_Docs-black?style=flat&logo=mdn_web_doc)
+  ![Smtp_js](https://img.shields.io/badge/smtp%20Js-1890FF?style=flat&logo=js)
+  ![tutorialspoint](https://img.shields.io/badge/Tutorialpoint-FF6F00?style=flat&logo=tutorialspoint)
   
 
 [⬆ Back to top](#project-name)<br>
