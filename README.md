@@ -29,7 +29,7 @@ The project is still under development and the next updates will focus on the fo
 <details>
 <summary><b>File structure</b></summary>
 <br>
-```
+
    - [README.md](README.md)
    - __backend__
      - [auth\_session.php](backend/auth_session.php)
@@ -121,7 +121,7 @@ The project is still under development and the next updates will focus on the fo
      - [app.js](js/app.js)
    - [list.md](list.md)
    - [proinfo.html](proinfo.html)
-```
+
 </details>
 
 
@@ -218,11 +218,11 @@ Want to be part of this project? Click [HERE](CONTRIBUTING.md) and read how to c
 
 - 💻 &nbsp;
 
-  ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html)
+  ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)
+  ![Php](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)
+  ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css)
+  
   
 - 🌐 &nbsp;
   ![W3c](https://img.shields.io/badge/W3c-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
