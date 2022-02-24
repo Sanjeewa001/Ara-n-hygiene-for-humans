@@ -6,7 +6,7 @@
 </div>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Sanjeewa001/Ara-n-hygiene-for-humans?style=for-the-badge)
-![GitHub language count](https://github.com/Sanjeewa001/Ara-n-hygiene-for-humans/tree/main?style=for-the-badge)
+![GitHub language count](https://github.com/Sanjeewa001/Ara-n-hygiene-for-humans?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/Sanjeewa001/Ara-n-hygiene-for-humans?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Sanjeewa001/Ara-n-hygiene-for-humans?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Sanjeewa001/Ara-n-hygiene-for-humans?style=for-the-badge)
