@@ -1,38 +1,93 @@
 <html>
 <head>
-	<title> overview </title>
+	<title> Overview </title>
 </head>
 <style>
-.body{
+body{
 	padding: 0;
-	background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(img/1.jpg);
+	background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(1.jpg);
 	background-repeat: no-repeat;
 	background-size:cover;
 
 	background-attachment: fixed;
 	background-position: center;
+
 }
-</style>
+.navbar{float:right;};
+.navbar{
+	margin: auto;
+	padding: 20px 10px;
+	display: flex;
+	justify-content: space-between;
+
+}
+.navbar ul li{
+	list-style: none;
+	display: inline-block;
+	margin:0 20px;
+	position: relative;
+
+}
+.navbar ul li a{
+	text-decoration: none;
+	color: #fff;
+	text-transform: uppercase;
+}
+.navbar ul li::after{
+	content: '';
+	height: 3px;
+	width: 0;
+	background: #009688;
+	position: absolute;
+	left: 0;
+	bottom: -7;
+	transition: 0.4s;
+}
+.navbar ul li:hover::after{
+	width: 100%;
+}
+.content {float: left}
+.content {position: absolute;
+	top: 30px;
+	right: -50px;}
+	.content {
+		width: 100%;
+		color: #fff;
+	}
+.content p{
+	padding: 1px;
+	font-size: 15px;
+	margin: 20px 20px;
+	font-weight: 100;
+	line-height: 25px;
+	font-style: justify;
+	position: absolute;
+}
+
+
+</style >
 <div class="navbar">
-	<ul>
-			<li><a href="">Progress and Info</a></li>
-			<li><a href="">Targets And Indicators</a></li>
-			<li><a href="">Sign Up</a></li>
-	</u1>
-		 
-	</div>
-	<div class="content">
-		<h1>OVERVIEW</h1>
-		<center>
-	<img src="img/0011.png" width="150" height="150">
-	<img src="img/00111.png" width="1000" height="150"><br><br>
+<ul>
+		<li><a href="">Progress and Info</a></li>
+		<li><a href="">Targets And Indicators</a></li>
+		<li><a href="">Sign Up</a></li>
+</u1>
+	 
+</div>
+<div class="content">
+	<h1>OVERVIEW</h1>
 	<center>
-	<img src="img/002.png" width="400" height="550">
-	<img src="img/00333.jpg" width="350" height="550">
-	</center><br>
-	<center>
-	<img src="img/005.png" width="1000" height="200">
-	</center>
-	</div>
+<img src="img/0011.png" width="150" height="150">
+<img src="img/00111.png" width="1000" height="150"><br><br>
+<center>
+<img src="img/002.png" width="400" height="550">
+<img src="img/00333.png" width="350" height="550">
+</center><br>
+<center>
+<img src="img/005.png" width="1000" height="200">
+</center>
+</div>
+
+
 </body>
 </html>
