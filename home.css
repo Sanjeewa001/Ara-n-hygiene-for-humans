@@ -66,3 +66,22 @@ font-family: sans-serif;
 	margin: 10px 100px;
 	font-weight: 100;
 }
+button {
+	width: 350px;
+	height: 40px;
+	font-size: 17px;
+	border-radius:50px;
+	border: 2px solid #009688;
+	background: transparent;
+	color: white;
+	
+}
+button:hover
+{
+	cursor: pointer;
+	background-color: #009688;
+	transition: 0.6s;
+}
+::placeholder{
+	color: white;
+}
