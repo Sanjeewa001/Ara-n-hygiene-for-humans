@@ -44,3 +44,25 @@
 .navbar ul li:hover::after{
 	width: 100%;
 }
+.logo{
+	width: 100px;
+	cursor: pointer;
+	position:  relative;
+}
+.content{
+	width: 100%;
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	text-align: center;
+	color: #fff;
+}
+.content h1{
+	font-size: 70px;
+	margin-top: 80px; 
+}
+.content p{
+font-family: sans-serif;
+	margin: 10px 100px;
+	font-weight: 100;
+}
