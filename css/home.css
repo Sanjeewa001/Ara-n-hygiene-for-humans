@@ -12,6 +12,9 @@
 	background-size:cover;
 	background-position: center;
 }
+.navbar{
+	float: right;}
+
 
 .navbar{
 	margin: auto;
