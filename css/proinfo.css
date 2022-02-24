@@ -10,7 +10,6 @@ body{
 
 	background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(img/1.jpg);
 
-	background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(1.jpg);
 
 	background-repeat: no-repeat;
 	background-size:cover;
@@ -71,4 +70,3 @@ color:#fff;
 
 
 }
-/*footer css*/
