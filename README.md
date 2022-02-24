@@ -137,7 +137,6 @@ The project is still under development and the next updates will focus on the fo
 To check <b>Pure Water </b>, follow these steps:
 
 * Click the link below 
-  <a href="http://purewater.42web.io/">or Click here</a>
 * use these credentials to login
 
 login credentials:
