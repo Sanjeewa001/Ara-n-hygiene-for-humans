@@ -139,9 +139,13 @@ To check <b>Pure Water </b>, follow these steps:
 * use these credentials to login
 
 login credentials:
+
+#<a href="http://purewater.42web.io/">Pure Water</a> 
 ```
-User - demo
-password - demo
+User - ?
+password - ?
+
+Just create new account and check how it works. <register>
 ```
 
 
