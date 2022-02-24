@@ -11,6 +11,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Sanjeewa001/Ara-n-hygiene-for-humans?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Sanjeewa001/Ara-n-hygiene-for-humans?style=for-the-badge)
 
+<a href="http://purewater.42web.io/">
 <img src="./img/preview.png" alt="preview">
 
 > This is a crowdfunding platform & the website for achive the SDG Goal 6 (Clean water and sanitation).  
