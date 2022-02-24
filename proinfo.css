@@ -47,3 +47,22 @@ body{
 .navbar ul li:hover::after{
 	width: 100%;
 }
+.content {float: left}
+.content {position: absolute;
+top: 30px;
+right:-50px;}
+.content {
+width: 100%;
+color:#fff;
+}
+.content p{
+	padding: 40px;
+	font-size: 15px;
+	margin:20px 20px ;
+	font-weight:100;
+	line-height:25px;
+	font-style: justify;
+	position: absolute;
+
+
+}
