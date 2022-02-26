@@ -1,9 +1,9 @@
 <html>
 <head>
 	<title> Give us your opinion </title>
-	<link rel="stylesheet" href="signup.css">
+	<link rel="stylesheet" href="./css/signup.css">
 	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
-	<style type="text/css">
+	
 		
 		body {
   background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url('1.jpg');
