@@ -37,7 +37,7 @@
         if ($result) {
             echo "<div class='form'>
                   <h3>Your Massage was recived.</h3><br/>
-                  <p class='link'>Would you like to make a <strong>Donation</strong> <a href='index.html'>Donate</a></p>
+                  <p class='link'>Would you like to make a <strong>Donation</strong> <a href='purewater.html'>Donate</a></p>
                   </div>";
         } else {
             echo "<div class='form'>
