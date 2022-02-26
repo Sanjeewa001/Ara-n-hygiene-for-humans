@@ -8,10 +8,13 @@
 .banner{
 	width: 100%;
 	height: 100vh;
-	background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(1.jpg);
+	background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(Ara-n-hygiene-for-humans/img/1.jpg);
 	background-size:cover;
 	background-position: center;
 }
+.navbar{
+	float: right;}
+
 
 .navbar{
 	margin: auto;
