@@ -126,7 +126,7 @@ body {
 </div>
 
 <div class="topnav">
-  <a href="../index.html">Home 🌐</a>
+  <a href="../purewater.html">Home 🌐</a>
   <!--<a href="#">Link</a>
   <a href="#">Link</a> -->
   <a href="logout.php" style="float:right">Log Out ➡️</a>
