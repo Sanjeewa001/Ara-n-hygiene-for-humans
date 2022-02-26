@@ -155,7 +155,24 @@ Just create new account and check how it works. <register>
 Sql data structure:
 
 ```
-<example>
+DROP TABLE IF EXISTS `idea`;
+CREATE TABLE IF NOT EXISTS `idea` (
+  `First_name` varchar(10) NOT NULL,
+  `Last_name` varchar(10) NOT NULL,
+  `Gender` char(5) NOT NULL,
+  `E_mail` varchar(50) NOT NULL,
+  `Massage` text NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+  
+DROP TABLE IF EXISTS `users`;
+CREATE TABLE IF NOT EXISTS `users` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `username` varchar(50) NOT NULL,
+  `email` varchar(50) NOT NULL,
+  `password` varchar(50) NOT NULL,
+  `create_datetime` datetime NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=2 DEFAULT CHARSET=latin1;
 ```
 
 
